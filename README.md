@@ -45,6 +45,8 @@ python script.py
 
 3. Processed images will be saved to the `Results/` folder with filenames prefixed by `green_`.
 
+Example:
+![alt text](12_example.png)
 ## Notes
 
 - This implementation uses a manually written version of K-Means (not `sklearn`).
